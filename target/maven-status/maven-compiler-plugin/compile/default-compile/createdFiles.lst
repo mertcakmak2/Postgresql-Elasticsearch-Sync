@@ -1,0 +1,11 @@
+com\example\pgelasticsync\PgElasticSyncApplication.class
+com\example\pgelasticsync\service\todo\TodoService.class
+com\example\pgelasticsync\controller\UserController.class
+com\example\pgelasticsync\model\User.class
+com\example\pgelasticsync\service\user\UserService.class
+com\example\pgelasticsync\service\todo\TodoServiceImpl.class
+com\example\pgelasticsync\service\user\UserServiceImpl.class
+com\example\pgelasticsync\controller\TodoController.class
+com\example\pgelasticsync\model\Todo.class
+com\example\pgelasticsync\repository\TodoRepository.class
+com\example\pgelasticsync\repository\UserRepository.class
